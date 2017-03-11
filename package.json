@@ -1,0 +1,22 @@
+{
+  "name": "criando-um-site-responsivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasNasc1389/cirando_um_site_responsivo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasNasc1389/cirando_um_site_responsivo/issues"
+  },
+  "homepage": "https://github.com/lucasNasc1389/cirando_um_site_responsivo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
