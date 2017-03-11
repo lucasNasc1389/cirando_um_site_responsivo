@@ -1,0 +1,20 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/lucasNasc1389/cirando_um_site_responsivo",
+  "authors": [
+    "Lucas Nascimento <lucas.silva2416@etec.sp.gov.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
